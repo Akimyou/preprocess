@@ -5,6 +5,12 @@
 
 Preprocess HTML, JavaScript, and other files with directives based off custom or ENV configuration
 
+## aki-preprocess
+
+Is pre support for my added new features.
+
+- https://github.com/jsoverson/preprocess/pull/133
+
 ## Configuration
 
 Install via npm:
